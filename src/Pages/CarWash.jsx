@@ -14,7 +14,7 @@ import {
   Menu,
   Play,
   Phone,
-  Scissors,
+  Scissors, 
   ShieldCheck,
   Sparkles,
   Star,
